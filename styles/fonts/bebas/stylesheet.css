@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'BebasNeuePro-SmEBd';
+    src: url('./395A05_0_0.eot');
+    src: url('./395A05_0_0.eot?#iefix') format('embedded-opentype'),
+        url('./395A05_0_0.woff2') format('woff2'),
+        url('./395A05_0_0.woff') format('woff'),
+        url('./395A05_0_0.ttf') format('truetype');;
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
